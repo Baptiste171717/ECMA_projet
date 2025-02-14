@@ -385,7 +385,7 @@ void static_resolution(string path_to_complete_solution, string path_to_solution
             cout << "The total score of this static solution is " <<static_best_score<< " found at time "<<static_elapsed <<endl;
 
             exportToCSV(selected_arcs, path_to_solution);
-            exportTo_txt_with_total_information(selected_arcs, path_to_complete_solution, static_elapsed, static_best_score, PR_gap*100, best_bound);
+            exportTo_txt_with_total_information(selected_arcs, path_to_complete_solution, static_elapsed, static_best_score, PR_gap*100, dualisation_best_score); //here it is a different bound
 
         }
 
