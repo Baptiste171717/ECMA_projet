@@ -1,0 +1,44 @@
+The score of this solution is 15045 found after 2502.39 seconds with total gap = 105.139%.
+
+The best bound obtained with the dualised problem is 7334.04.
+
+Here is the list of activated arcs : 
+
+Source,Target
+0,6
+0,8
+0,12
+0,14
+0,20
+0,26
+0,28
+0,29
+1,0
+2,0
+3,21
+4,24
+5,0
+6,18
+7,4
+8,25
+9,22
+10,16
+11,23
+12,15
+13,17
+14,7
+15,27
+16,0
+17,1
+18,5
+19,2
+20,3
+21,10
+22,11
+23,0
+24,0
+25,0
+26,13
+27,0
+28,19
+29,9

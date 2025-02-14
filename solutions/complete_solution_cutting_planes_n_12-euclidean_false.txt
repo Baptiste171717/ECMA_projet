@@ -1,0 +1,21 @@
+The score of this solution is 3389 found after 2.89553 seconds with total gap = 0%.
+
+The best bound obtained with the dualised problem is 3389.
+
+Here is the list of activated arcs : 
+
+Source,Target
+0,1
+0,2
+0,3
+1,10
+2,9
+3,8
+4,5
+5,0
+6,11
+7,6
+8,7
+9,4
+10,0
+11,0
